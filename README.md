@@ -1,4 +1,4 @@
-Steps to run
+here are Steps to run
 
 -Create the mysql database/tables/ from db.sql
 
